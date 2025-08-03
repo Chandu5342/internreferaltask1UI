@@ -7,7 +7,7 @@ import Dashboard from './Pages/Dashboard ';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
-  const [isAuthenticated, setIsAuthenticated] = useState(null); // null means "checking"
+  const [isAuthenticated, setIsAuthenticated] = useState(null); 
 
   useEffect(() => {
     const token = localStorage.getItem('token');
