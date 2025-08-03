@@ -8,20 +8,20 @@ This is the **frontend** for the Referral Task project, built using **React.js**
 
 👉 **Deployed on Vercel**:  
 `https://your-vercel-url.vercel.app/`  
-(Replace with your actual Vercel deployment URL)
+
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 User Signup & Login
-- 🧾 View Referral Code
-- 💸 Track Total Donations
-- 🎖️ See Donor Reward Badges (Bronze / Gold)
+-  User Signup & Login
+-  View Referral Code
+-  Track Total Donations
+- See Donor Reward Badges (Bronze / Gold)
 
 ---
 
-## 🧑‍💻 Tech Stack
+ Tech Stack
 
 - React.js (with Vite)
 - Axios
@@ -31,10 +31,10 @@ This is the **frontend** for the Referral Task project, built using **React.js**
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 src/
-├── Pages/
+├── Pages/ 
 │ ├── Login.jsx
 │ ├── Signup.jsx
 │ └── Dashboard.jsx
